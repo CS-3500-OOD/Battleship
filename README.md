@@ -8,7 +8,7 @@ Submarine - 6 Cells
 NOTE: Unlike standard battleship, in this version, 
 the number of shots a player gets is equal to the number of unsunk ships
 [startGame.png](src/main/resources/startGame.png)
-[initialBoard.png] (src/main/resources/initialBoards.png)
+[initialBoards.png] (src/main/resources/initialBoards.png)
 
 Finally, enter the xy-coordinates of where to take your shots
 [enterShots.png](src/main/resources/enterShots.png)
