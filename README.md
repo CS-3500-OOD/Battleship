@@ -1,9 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/lMGZykNT)
-# 3500 PA 03 - Battle Salvo - Part 1 Project Repo
+First, enter a height and width, both of which must be in range [6, 15]
 
-[PA 03 Write Up](https://markefontenot.notion.site/PA-03-BattleSalvo-Part-1-81f5240ddb3b4a38a491f1215abbdab4) 
+Next, choose the number of each type of ship
+Carrier - 3 Cells
+Battleship - 4 Cells
+Destroyer - 5 Cells
+Submarine - 6 Cells
+NOTE: Unlike standard battleship, in this version, 
+the number of shots a player gets is equal to the number of unsunk ships
+[startGame.png](src/main/resources/startGame.png)
+[initialBoard.png] (src/main/resources/initialBoards.png)
 
-It include several additional tools:
-1. Gradle Build Automation
-1. JaCoCo for Test Coverage
-1. CheckStyle for Code Style Checks (Using the custom [cs3500 check file](./config/checkstyle/cs3500-checkstyle.xml)) 
+Finally, enter the xy-coordinates of where to take your shots
+[enterShots.png](src/main/resources/enterShots.png)
+Can you beat my AI algorithm??

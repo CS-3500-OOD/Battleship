@@ -1,12 +1,6 @@
 plugins {
     id 'application'
     id 'jacoco'
-    id 'checkstyle'
-}
-
-checkstyle {
-    toolVersion = '10.10.0'
-    configFile = 'config/checkstyle/cs3500-checkstyle.xml' as File
 }
 
 application {
