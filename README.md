@@ -12,4 +12,6 @@ the number of shots a player gets is equal to the number of unsunk ships
 
 Finally, enter the xy-coordinates of where to take your shots
 [enterShots.png](src/main/resources/enterShots.png)
+H represents cells in which the shots successfully hit a ship,
+M represents missed shots
 Can you beat my AI algorithm??
